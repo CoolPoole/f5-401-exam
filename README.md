@@ -96,6 +96,7 @@ Item | Objective
 * https://www.f5.com/products/security/silverline
 * https://www.f5.com/pdf/products/f5-silverline-web-application-firewall-datasheet.pdf
 * https://www.f5.com/pdf/products/silverline-ddos-datasheet.pdf
+* https://community.f5.com/t5/technical-articles/f5-silverline-ddos-protection-faq/ta-p/278344
 
 # SSL Orchestrator
 * https://www.youtube.com/watch?v=GQx5a2bVrTs
